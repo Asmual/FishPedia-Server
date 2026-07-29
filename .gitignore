@@ -4,8 +4,6 @@ node_modules/
 .yarn/
 
 # Environment variables (MUST NEVER BE COMMITTED)
-.env
-.env.*
 !.env.example
 
 # Production / TypeScript Output
@@ -27,7 +25,6 @@ coverage/
 .nyc_output/
 
 # IDEs and Code Editors
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -45,3 +42,4 @@ desktop.ini
 .cache/
 .tmp/
 .eslintcache
+config.bat
