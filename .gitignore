@@ -44,3 +44,9 @@ desktop.ini
 .eslintcache
 
 config.bat
+
+.vscode/
+api.js
+director.js
+.env
+.env.local
